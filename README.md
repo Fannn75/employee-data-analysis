@@ -26,6 +26,7 @@ Power BI (visualización y dashboard)
 Excel / CSV (fuente de datos)
 
 📬 Contacto
+
 📧 Email: fannytlecuitl@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/fanny-tlecuitl/
 💻 GitHub: https://github.com/Fannn75
