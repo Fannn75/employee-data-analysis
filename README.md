@@ -25,7 +25,7 @@ SQL (limpieza y transformación de datos)
 Power BI (visualización y dashboard)
 Excel / CSV (fuente de datos)
 
-## 📬 Contacto
+ 📬 Contacto
 
 📧 Email: fannytlecuitl@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/fanny-tlecuitl/  
