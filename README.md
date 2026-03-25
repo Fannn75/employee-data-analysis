@@ -1,8 +1,8 @@
-📊 Análisis de Empleados
+#📊 Análisis de Empleados
 
 Proyecto de análisis de datos enfocado en la limpieza de información utilizando SQL y la visualización de insights mediante Power BI. El objetivo es comprender la estructura organizacional, la distribución del personal y su estado laboral.
 
-📂 Descripción del proyecto
+##📂 Descripción del proyecto
 Este proyecto incluye:
 Limpieza y transformación de datos en SQL
 Estandarización de variables (fechas, texto, formatos)
@@ -13,14 +13,14 @@ Visualización en Power BI
 
 ![Dashboard](Herramientas%20empleadas.png)
 
-📊 Principales análisis realizados
+##📊 Principales análisis realizados
 Distribución de empleados por área
 Proporción de empleados activos e inactivos
 Análisis de género
 Exploración de la estructura organizacional
 Evaluación de estabilidad laboral
 
-🛠️ Tecnologías utilizadas
+##🛠️ Tecnologías utilizadas
 SQL (limpieza y transformación de datos)
 Power BI (visualización y dashboard)
 Excel / CSV (fuente de datos)
